@@ -1,5 +1,9 @@
 # Hello, I'm Miguel
 
+<a href="https://github.com/mick258">
+  <img height="180em" src="https://github-readme-stats-liart-psi.vercel.app/api/top-langs/?username=mick258&layout=compact&langs_count=7&theme=yeblu"/>
+</div>
+
 ## About Me
 I'm a dedicated IT Professional and Full Stack Software Developer from Mozambique, with a passion for creating efficient and innovative solutions. My expertise lies in a variety of programming languages and technologies, allowing me to tackle a wide range of projects with confidence.
 
@@ -10,10 +14,6 @@ I specialize in the following languages and technologies:
 - **Web Development:** Skilled in web development technologies such as HTML, CSS, JavaScript, and frameworks like Thymeleaf and Spring Boot for building dynamic web applications.
 - **ERP Systems:** Proficient in JD Edwards ERP, particularly in the Finance Module, including Assets Management and Accounts Receivables.
 - **Database Management:** Experienced in database management systems like MySQL, PostgreSQL, and Oracle, ensuring efficient data storage and retrieval.
-
-<a href="https://github.com/mick258">
-  <img height="180em" src="https://github-readme-stats-liart-psi.vercel.app/api/top-langs/?username=mick258&layout=compact&langs_count=7&theme=yeblu"/>
-</div>
   
 ## Connect with Me
 Let's connect and discuss exciting development opportunities:
