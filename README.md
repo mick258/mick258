@@ -4,6 +4,19 @@
   <img height="180em" src="https://github-readme-stats-liart-psi.vercel.app/api/top-langs/?username=mick258&layout=compact&langs_count=7&theme=yeblu"/>
 </div>
 
+<div>
+  <h2>About Me</h2>
+  <p>
+    I'm a dedicated IT Professional and Full Stack Software Developer from Mozambique, with a passion for creating efficient and innovative solutions. My expertise lies in a variety of programming languages and technologies, allowing me to tackle a wide range of projects with confidence.
+  </p>
+</div>
+
+<div>
+  <a href="https://github.com/mick258">
+    <img height="180em" src="https://github-readme-stats-liart-psi.vercel.app/api/top-langs/?username=mick258&layout=compact&langs_count=7&theme=yeblu"/>
+  </a>
+</div>
+
 ## About Me
 I'm a dedicated IT Professional and Full Stack Software Developer from Mozambique, with a passion for creating efficient and innovative solutions. My expertise lies in a variety of programming languages and technologies, allowing me to tackle a wide range of projects with confidence.
 
